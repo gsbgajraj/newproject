@@ -9,8 +9,7 @@ function Navbar() {
           <div className="flex space-x-7">
             <div>
               <a href="#" className="flex items-center py-4 px-2">
-                <img src="./assets/logo.png" alt="Logo" className="h-8 w-8 mr-2" />
-                <span className="font-semibold text-gray-500 text-lg">My Website</span>
+                <span className="font-bold text-green-500 text-lg">New Project 24</span>
               </a>
             </div>
             <div className="hidden md:flex items-center space-x-1">
